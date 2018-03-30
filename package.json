@@ -1,7 +1,7 @@
 {
-  "name": "new",
-  "version": "1.0.0",
-  "description": "",
+  "name": "contentful-react",
+  "version": "0.0.1",
+  "description": "A Set of component to work with Contentful",
   "keywords": [],
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
@@ -18,5 +18,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaledgarbaya/contentful-react.git"
+  },
+  "author": "Khaled Garbaya <kgarbaya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Khaledgarbaya/contentful-react/issues"
   }
 }
